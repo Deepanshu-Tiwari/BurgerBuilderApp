@@ -2,7 +2,7 @@ import React from "react";
 
 const BuildControl = ()=>{
     return(
-        <div>testing</div>
+        <div>topa </div>
     )
 }
 
