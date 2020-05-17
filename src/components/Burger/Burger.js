@@ -1,7 +1,7 @@
 import React from "react";
-import "../Burger/Burger.css";
-import "../Burger/BurgerIngredient/BurgerIngredient.css";
-import BurgerIngredient from "./BurgerIngredient/BurgerIngredient";
+import '../Burger/Burger.css';
+import '../Burger/BurgerIngredient/BurgerIngredient.css';
+import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
 
 const Burger = (props)=>{
     let transformedIngredient = Object.keys(props.ingredients)
